@@ -61,12 +61,13 @@ GPS sinyalinin zayıf veya hiç olmadığı ortamlarda (ör. bina içi, yeraltı
 
 ## ⚙️ Gereksinimler
 
-- Python 3.8+  <img width="940" height="813" alt="odo1" src="https://github.com/user-attachments/assets/a8b12369-902f-462d-9d91-2e9f2c811b37" />
+- Python 3.8+  
 
 - Kütüphaneler:
   ```bash
   pip install numpy pandas matplotlib tensorflow scikit-learn pyserial openpyxl keyboard
+  <img width="940" height="813" alt="odo1" src="https://github.com/user-attachments/assets/a8b12369-902f-462d-9d91-2e9f2c811b37" />
 ![Uploading odo1.png…]()
 <img width="885" height="992" alt="odo4" src="https://github.com/user-attachments/assets/581d8342-cdfd-4d69-8dcd-f4279d92679e" />
 <img width="908" height="889" alt="odo3" src="https://github.com/user-attachments/assets/3aeffe4e-bafc-4402-b3ca-26668af1f837" />
-<img width="1169" height="668" alt="odo2" src="https://github.com/user-attachments/assets/2dedb708-2658-4283-ba76-e986f81747f8" />
+
